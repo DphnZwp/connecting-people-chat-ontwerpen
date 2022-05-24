@@ -3,11 +3,16 @@
 # Chat analyse
 Voordat ik was begonnen met schetsen heb ik een analyse gedaan samen met Beau en Yasser naar verschillende websites met een chat. Ik had toen vijf verschillende voorbeeld foto's op het Miro bord gezet.
 
-## Schetsen, Figma/XD of CSS?
+# Schetsen, Figma/XD of CSS?
 
+## Iconen en spreekwolkjes
+Voordat ik was begonnen had ik verschillende iconen en spreekwolkjes gemaakt die ik voor mijn chat pagina wil gebruiken.
 
 ![Iconen en spreekwolkjes](https://user-images.githubusercontent.com/69635977/170135573-a5fcaad7-ec1b-4a8f-a129-7aafd6c64087.png)
 
+## Schetsen
+
+## Figma ontwerpen
 ![Ontwerp 10](https://user-images.githubusercontent.com/69635977/170135577-1e62cc93-d6e8-4ff1-9214-f5093792f777.png)
 
 ![Ontwerp 9](https://user-images.githubusercontent.com/69635977/170135581-95c95133-4d04-4bcc-8c88-006f71500cfa.png)
