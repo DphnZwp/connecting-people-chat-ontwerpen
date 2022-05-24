@@ -1,10 +1,11 @@
 > _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Chat ontwerpen
-
-## Ontwerp tien verschillende digitale versies van een chatroom voor jouw opdrachtgever
+# Chat analyse
+Voordat ik was begonnen met schetsen heb ik een analyse gedaan samen met Beau en Yasser naar verschillende websites met een chat. Ik had toen vijf verschillende voorbeeld foto's op het Miro bord gezet.
 
 ## Schetsen, Figma/XD of CSS?
+
+
 ![Iconen en spreekwolkjes](https://user-images.githubusercontent.com/69635977/170135573-a5fcaad7-ec1b-4a8f-a129-7aafd6c64087.png)
 
 ![Ontwerp 10](https://user-images.githubusercontent.com/69635977/170135577-1e62cc93-d6e8-4ff1-9214-f5093792f777.png)
