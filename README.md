@@ -14,7 +14,7 @@ Voordat ik was begonnen had ik verschillende iconen en spreekwolkjes gemaakt die
 
 ## Figma ontwerpen
 ### Otwerp 1
-![Ontwerp 1](https://user-images.githubusercontent.com/69635977/170135577-1e62cc93-d6e8-4ff1-9214-f5093792f777.png)
+![Ontwerp 1](https://user-images.githubusercontent.com/69635977/170136994-19fb3010-8b09-473a-8184-28cf02b8b5cb.png)
 
 ### Otwerp 2
 ![Ontwerp 2](https://user-images.githubusercontent.com/69635977/170135581-95c95133-4d04-4bcc-8c88-006f71500cfa.png)
