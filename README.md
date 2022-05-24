@@ -17,7 +17,7 @@ Voordat ik was begonnen had ik verschillende iconen en spreekwolkjes gemaakt die
 ![Ontwerp 1](https://user-images.githubusercontent.com/69635977/170135595-31f89f2f-a84b-4687-9e71-7b4d2cd73f41.png)
 
 ### Otwerp 2
-![Ontwerp 2](https://user-images.githubusercontent.com/69635977/170135597-4483b220-e03b-47fd-a878-3f19c1ca13b0.png)
+![Ontwerp 2 (1)](https://user-images.githubusercontent.com/69635977/170137570-91cdd56a-1c54-4e0e-9382-be101e7049c2.png)
 
 ### Otwerp 3
 ![Ontwerp 3](https://user-images.githubusercontent.com/69635977/170135601-d0471c09-5d41-4844-b69b-0e30a3a5f6ee.png)
