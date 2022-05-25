@@ -1,9 +1,9 @@
 > _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 # Inhoudsopgave
-- [Chat analyse](##Chat analyse)
-- [Iconen en spreekwolkjes](## Iconen en spreekwolkjes)
+- [Chat analyse](#Chat analyse)
+- [Iconen en spreekwolkjes](#Iconen en spreekwolkjes)
 - [Schetsen](## Schetsen)
-- [Figma ontwerpen](##Figma ontwerpen)
+- [Figma ontwerpen](#Figma ontwerpen)
 
 ## Chat analyse
 Voordat ik was begonnen met schetsen heb ik een analyse gedaan samen met Beau en Yasser naar verschillende websites met een chat. Ik had toen vijf verschillende voorbeeld foto's op het Miro bord gezet.
