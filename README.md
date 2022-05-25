@@ -55,7 +55,7 @@ Voordat ik was begonnen had ik verschillende iconen en spreekwolkjes gemaakt die
 ## Eerste keuze
 Ik heb sommige wolkjes paars gemaakt en de datum erboven gezet.
 
-![Eerste keuze](https://user-images.githubusercontent.com/69635977/170209133-b3379b0b-f8e2-4b39-951d-ebdf9dc812b0.png)
+![Eerste keuze](https://user-images.githubusercontent.com/69635977/170211036-6cd3597e-cac1-42e1-88b6-364dfdea59d2.png)
 
 ## Licentie
 
