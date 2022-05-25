@@ -12,6 +12,10 @@ Voordat ik was begonnen had ik verschillende iconen en spreekwolkjes gemaakt die
 
 ## Schetsen
 
+![IMG_1480](https://user-images.githubusercontent.com/69635977/170208066-0455c380-2812-4974-98b0-fcce33df2daa.jpg)
+
+![IMG_1477](https://user-images.githubusercontent.com/69635977/170208070-5a2a926e-93f5-46a2-8a50-710abbf78250.jpg)
+
 ## Figma ontwerpen
 ### Otwerp 1
 ![Ontwerp 1](https://user-images.githubusercontent.com/69635977/170135595-31f89f2f-a84b-4687-9e71-7b4d2cd73f41.png)
