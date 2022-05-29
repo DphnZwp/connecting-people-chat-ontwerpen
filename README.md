@@ -59,10 +59,10 @@ Ik heb sommige wolkjes paars gemaakt en de datum erboven gezet.
 ![Ontwerp 11](https://user-images.githubusercontent.com/69635977/170211036-6cd3597e-cac1-42e1-88b6-364dfdea59d2.png)
 
 ## Eerste keuze
-![Eerste keuze](https://user-images.githubusercontent.com/69635977/170893068-14d9275d-ccc1-448a-af0a-b7e8a588ab43.png)
+![Eerste keuze](https://user-images.githubusercontent.com/69635977/170893380-5b32c413-9e96-4ebc-9009-fa43434ee7d1.png)
 
 ## Loading state + aan het typen functionaliteit
-![UI Stack](https://user-images.githubusercontent.com/69635977/170892979-fa9653e0-9ba4-4446-b19c-f9e49a271c6c.png)
+![UI Stack](https://user-images.githubusercontent.com/69635977/170893389-98f2ac15-d1b5-42a2-9d72-99e52f0a23ad.png)
 
 ## Licentie
 
