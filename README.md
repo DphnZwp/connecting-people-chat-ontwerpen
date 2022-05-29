@@ -53,10 +53,16 @@ Voordat ik was begonnen had ik verschillende iconen en spreekwolkjes gemaakt die
 ### Otwerp 10
 ![Ontwerp 10](https://user-images.githubusercontent.com/69635977/170135594-0e2f800c-e41b-43a6-8138-cc71c7136d9a.png)
 
-## Eerste keuze
+### Otwerp 11
 Ik heb sommige wolkjes paars gemaakt en de datum erboven gezet.
 
-![Eerste keuze](https://user-images.githubusercontent.com/69635977/170211036-6cd3597e-cac1-42e1-88b6-364dfdea59d2.png)
+![Ontwerp 11](https://user-images.githubusercontent.com/69635977/170211036-6cd3597e-cac1-42e1-88b6-364dfdea59d2.png)
+
+## Eerste keuze
+![Eerste keuze](https://user-images.githubusercontent.com/69635977/170893068-14d9275d-ccc1-448a-af0a-b7e8a588ab43.png)
+
+## Loading state + aan het typen functionaliteit
+![UI Stack](https://user-images.githubusercontent.com/69635977/170892979-fa9653e0-9ba4-4446-b19c-f9e49a271c6c.png)
 
 ## Licentie
 
