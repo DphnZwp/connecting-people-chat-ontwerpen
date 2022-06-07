@@ -61,8 +61,11 @@ Ik heb sommige wolkjes paars gemaakt en de datum erboven gezet.
 ## Eerste keuze
 ![Eerste keuze](https://user-images.githubusercontent.com/69635977/170893451-a2c142c4-a76a-4bef-b509-ce74afa0ebd0.png)
 
-## Loading state + aan het typen functionaliteit
+## Pending state + aan het typen functionaliteit
 ![UI Stack](https://user-images.githubusercontent.com/69635977/170893460-fd7bb09b-c249-4d1b-801d-2ba11c09e390.png)
+
+## Error
+![Error](https://user-images.githubusercontent.com/69635977/172354867-3db1d0aa-c7b5-4e53-ad69-3a89ad9b4b60.png)
 
 ## Licentie
 
