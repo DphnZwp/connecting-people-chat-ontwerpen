@@ -59,6 +59,7 @@ Ik heb sommige wolkjes paars gemaakt en de datum erboven gezet.
 ![Ontwerp 11](https://user-images.githubusercontent.com/69635977/170211036-6cd3597e-cac1-42e1-88b6-364dfdea59d2.png)
 
 ## Eerste keuze
+Ik heb dit ontwerp gekozen, omdat ik een input voor de naam wil en reacties zijn meestal een kleur en in het midden.
 ![Eerste keuze](https://user-images.githubusercontent.com/69635977/170893451-a2c142c4-a76a-4bef-b509-ce74afa0ebd0.png)
 
 ## Pending state + aan het typen functionaliteit
