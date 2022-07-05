@@ -60,7 +60,8 @@ Ik heb sommige wolkjes paars gemaakt en de datum erboven gezet.
 
 ## Eerste keuze
 Ik heb dit ontwerp gekozen, omdat ik een input voor de naam wil en reacties zijn meestal een kleur en in het midden.
-![Eerste keuze](https://user-images.githubusercontent.com/69635977/170893451-a2c142c4-a76a-4bef-b509-ce74afa0ebd0.png)
+
+![Eerste keuze](https://user-images.githubusercontent.com/69635977/177429358-00c3d8ab-459e-413c-a892-293147db1388.png)
 
 ## Pending state + aan het typen functionaliteit
 ![UI Stack](https://user-images.githubusercontent.com/69635977/170893460-fd7bb09b-c249-4d1b-801d-2ba11c09e390.png)
