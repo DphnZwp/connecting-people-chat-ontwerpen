@@ -64,10 +64,10 @@ Ik heb dit ontwerp gekozen, omdat ik een input voor de naam wil en reacties zijn
 ![Eerste keuze (3)](https://user-images.githubusercontent.com/69635977/177429472-f8562791-6b81-4b62-847a-3293e3e02a29.png)
 
 ## Pending state + aan het typen functionaliteit
-![UI Stack](https://user-images.githubusercontent.com/69635977/170893460-fd7bb09b-c249-4d1b-801d-2ba11c09e390.png)
+![UI Stack](https://user-images.githubusercontent.com/69635977/177429596-25607a72-cdb2-45ce-b63b-12aff1a6c738.png)
 
 ## Error
-![Error](https://user-images.githubusercontent.com/69635977/172354867-3db1d0aa-c7b5-4e53-ad69-3a89ad9b4b60.png)
+![Error](https://user-images.githubusercontent.com/69635977/177429615-0fa3a325-a8ac-432a-b258-a3a6c2343d0a.png)
 
 ## Licentie
 
