@@ -67,7 +67,7 @@ Ik heb dit ontwerp gekozen, omdat ik een input voor de naam wil en reacties zijn
 ![UI Stack](https://user-images.githubusercontent.com/69635977/177429596-25607a72-cdb2-45ce-b63b-12aff1a6c738.png)
 
 ## Error
-![Error](https://user-images.githubusercontent.com/69635977/177429615-0fa3a325-a8ac-432a-b258-a3a6c2343d0a.png)
+![Error](https://user-images.githubusercontent.com/69635977/177430379-db6b08dc-52dd-48f5-9c5c-59980cd2d563.png)
 
 ## Licentie
 
